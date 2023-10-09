@@ -510,6 +510,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/namansharma18899">
+                    <sub><b>Naman Sharma</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
